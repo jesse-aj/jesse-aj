@@ -9,8 +9,8 @@ I'm also an aspiring entrepreneur with a vision to use technology to improve men
 
 - 🌱 Currently learning: **React, GitHub, CLI workflows, Frontend Projects**
 - 🔭 Working on: **Launching my first health-focused React app & contributing to open source**
-- 🌍 Languages: **JavaScript (learning), English (fluent)
-- 📫 Reach me: **jesseappiahcodes@gmail.com**
+- 🌍 Languages: **JavaScript (learning), English (fluent)**
+- 📫 Reach me: **jesseappiah740@gmail.com**
 - ⚡ Fun fact: I learn best when I do things hands-on (kinesthetic learning), and I love walking alone with music 🎧 when thinking about ideas.
 
 ---
@@ -49,9 +49,8 @@ This project documents my hands-on learning in **Git Bash**, using commands like
 ## Get in Touch 📬
 
 - 🌐 [Personal Site (Coming Soon)](https://jesseappiah.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesseappiah)
-- 🐦 [Twitter](https://twitter.com/jesse__appiah)
-- 📫 **Email:** jesseappiahcodes@gmail.com
+- 🐦 [Twitter](https://x.com/jess95526)
+- 📫 **Email:** jesseappiah740@gmail.com
 
 ---
 
