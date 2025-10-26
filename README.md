@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Jesse Appiah 👋</h1>
 <p align="center">
-  🌍 Passionate Frontend Developer | ALX Software Engineering Learner | Future Tech Founder  
+  🌍 Early-Carrer Software Engineer | ALX Learner | Tech Founder  
 </p>
 
 ---
