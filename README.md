@@ -1,67 +1,66 @@
-<!-- 👋 INTRO SECTION -->
-<h1 align="center">Hey there, I'm Jesse Appiah 👋</h1>
+<h1 align="center">Hey there, I'm Jesse Appiah 👋🏾</h1>
 
 <p align="center">
-  <em>🌍 Early-career Software Engineer | 💡 Passionate Learner | 💻 Builder for Impact</em>
+  <em>Software Engineer & Aspiring Product Manager | Building for Impact in Africa and Beyond</em>
 </p>
 
 ---
 
-<!-- 🧠 ABOUT ME -->
 ### 👨🏾‍💻 About Me
 
-Hi! I’m **Jesse Appiah**, a passionate **learner and early-career software engineer** who believes technology can make life more meaningful and humane.  
-I started with **software engineering** because I wanted to **create solutions that help people grow — in health, productivity, and daily life**.  
+Hi! I'm **Jesse Appiah**, a third-year **Computer Software Engineering** student at the **University of Energy and Natural Resources (UENR)** in Ghana, with a specialisation in Information Technology.
 
-What drives me is building products that **solve real human problems**, especially for **youth and communities in Africa**, while staying scalable to global audiences.  
-I’m inspired by the idea that **code can save lives**, connect people, and build opportunities for those who’ve been overlooked.
+I build software that solves real human problems — and I'm growing into the product space, learning to think about **why** we build, not just **how**.
+
+I'm currently:
+- 🛠 Interning at **LearnDepth Academy** building data processing and analytics systems
+- 🌍 Training with **ALX Africa** across backend and frontend tracks
+- ☁️ Accepted into **AmaliTech's AWS re/Start** Cloud Training programme
+- 📚 Exploring **Product Management** as a complement to my engineering foundation
 
 ---
 
-<!-- ⚡ GOALS AND MISSION -->
-### 🌱 My Mission
+### 🎯 My Mission
 
 To use technology to:
-- Empower young people mentally, financially, and emotionally.
-- Build systems that connect communities and make support accessible.
-- Create tools that make humans—not machines—the center of innovation.
-
-I’m currently focused on growing as a **full-stack engineer** and expanding my skills in **AI** and **Cybersecurity** to build safer, smarter, and more meaningful digital spaces.
+- Solve real problems for African communities and beyond
+- Build products that put humans — not machines — at the center
+- Bridge the gap between technical execution and product thinking
 
 ---
 
-<!-- 💼 PROJECT INTERESTS -->
-### 🚀 What I Love Building
+### 🚀 Featured Projects
 
-I enjoy working on:
-- 🌐 **Full-stack applications** that solve real problems.  
-- 🧠 **AI-powered tools** that improve human productivity and well-being.  
-- 🔐 **Secure systems** that protect users and their data.  
-- 💬 **Community-driven apps** that foster learning, empathy, and growth.  
-- ❤️ **Social-impact projects** focused on mental health, education, and access to opportunities.  
-
-If it helps people, I want to build it.
+| Project | Description | Tech |
+|----------|-------------|------|
+| [🔌 Django REST API](https://github.com/jesse-aj/django-rest-api) | A fully functional REST API with authentication, permissions, and class-based views. Deployed on PythonAnywhere. | Python, Django, REST Framework |
+| [📊 Automated Data Analytics System](https://github.com/jesse-aj/data-analytics-system) | Data processing and analytics pipeline built during my LearnDepth internship. | Python, Pandas |
+| [📚 PageTurner Books](https://github.com/jesse-aj/pageturner-books) | Online bookstore with full product listings, cart, and clean UI. Deployed on Vercel. | HTML, CSS, JavaScript |
+| [✅ GUI Task Reminder](https://github.com/jesse-aj/gui-task-reminder) | Desktop task reminder with email automation and a Tkinter interface. | Python, Tkinter, smtplib |
+| [💰 CLI Expense Tracker](https://github.com/jesse-aj/cli-expense-tracker) | Command-line tool for tracking and categorising personal expenses. | Python |
+| [🗂 Smart File Organizer](https://github.com/jesse-aj/smart-file-organizer) | Automatically organises files into folders by type and date. | Python |
+| [🔐 MoMoGuard](https://github.com/jesse-aj/momoguard) | MoMo fraud detection and reporting concept targeting financial crime in Ghana. MVP built with React. | React, Python |
 
 ---
 
-<!-- 🛠️ TECH STACK -->
 ### ⚙️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-grey?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
 </p>
 
 ---
 
-<!-- 📈 GITHUB STATS -->
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -71,20 +70,7 @@ If it helps people, I want to build it.
 
 ---
 
-<!-- 🧩 FEATURED PROJECTS -->
-### 🧩 Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| [🌐 Campus Portal App](https://github.com/YourGitHubUsername/campus-portal) | A web app for students and staff to access rules, fees, and navigation easily. | React, Node.js, MongoDB |
-| [💬 Sana Flow](https://github.com/YourGitHubUsername/sana-flow) | A mental health platform connecting youth to support and resources. | React, Express, AI APIs |
-| [🛍 E-commerce API](https://github.com/YourGitHubUsername/ecommerce-api) | RESTful API with authentication, payment, and cart management. | Node.js, Express, MongoDB |
-| [🔐 Secure Login System](https://github.com/YourGitHubUsername/secure-login) | Authentication app following cybersecurity best practices. | Node.js, JWT, bcrypt |
-
----
-
-<!-- 🌎 CONNECT -->
-### 🌎 Let’s Connect
+### 🌎 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/jesse-o-a-appiah"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
@@ -96,5 +82,5 @@ If it helps people, I want to build it.
 ---
 
 <p align="center">
-  <em>“Code to impact. Build to inspire. Learn to grow.”</em> 🌍
+  <em>"Build to solve. Learn to grow. Ship to impact." 🌍</em>
 </p>
