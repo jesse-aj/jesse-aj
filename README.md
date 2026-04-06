@@ -8,7 +8,7 @@
 
 ### 👨🏾‍💻 About Me
 
-Hi! I'm **Jesse Appiah**, a third-year **Computer Software Engineering** student at the **University of Energy and Natural Resources (UENR)** in Ghana, with a specialisation in Information Technology.
+Hi! I'm **Jesse Appiah**, a third-year **Information Technology** student at the **University of Energy and Natural Resources (UENR)** in Ghana.
 
 I build software that solves real human problems — and I'm growing into the product space, learning to think about **why** we build, not just **how**.
 
