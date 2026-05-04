@@ -1,14 +1,14 @@
-<h1 align="center">Hey there, I'm Jesse Appiah 👋🏾</h1>
+<h1 align="center">Hello there, I am Jesse Appiah 👋🏾</h1>
 
 <p align="center">
-  <em>Software Engineer & Aspiring Product Manager | Building for Impact in Africa and Beyond</em>
+  <em>Software Engineer & Product Manager(Intern) | Building for Impact in Africa and Beyond</em>
 </p>
 
 ---
 
 ### 👨🏾‍💻 About Me
 
-Hi! I'm **Jesse Appiah**, a third-year **Information Technology** student at the **University of Energy and Natural Resources (UENR)** in Ghana.
+Hi! I am **Jesse Appiah**, a third-year **Information Technology** student at the **University of Energy and Natural Resources (UENR)** in Ghana.
 
 I build software that solves real human problems — and I'm growing into the product space, learning to think about **why** we build, not just **how**.
 
@@ -33,13 +33,13 @@ To use technology to:
 
 | Project | Description | Tech |
 |----------|-------------|------|
-| [🔌 Django REST API](https://github.com/jesse-aj/django-rest-api) | A fully functional REST API with authentication, permissions, and class-based views. Deployed on PythonAnywhere. | Python, Django, REST Framework |
-| [📊 Automated Data Analytics System](https://github.com/jesse-aj/data-analytics-system) | Data processing and analytics pipeline built during my LearnDepth internship. | Python, Pandas |
-| [📚 PageTurner Books](https://github.com/jesse-aj/pageturner-books) | Online bookstore with full product listings, cart, and clean UI. Deployed on Vercel. | HTML, CSS, JavaScript |
-| [✅ GUI Task Reminder](https://github.com/jesse-aj/gui-task-reminder) | Desktop task reminder with email automation and a Tkinter interface. | Python, Tkinter, smtplib |
-| [💰 CLI Expense Tracker](https://github.com/jesse-aj/cli-expense-tracker) | Command-line tool for tracking and categorising personal expenses. | Python |
-| [🗂 Smart File Organizer](https://github.com/jesse-aj/smart-file-organizer) | Automatically organises files into folders by type and date. | Python |
-| [🔐 MoMoGuard](https://github.com/jesse-aj/momoguard) | MoMo fraud detection and reporting concept targeting financial crime in Ghana. MVP built with React. | React, Python |
+| [🔌 Django REST API](https://github.com/jesse-aj/INVENTORY_API_SYSTEM) | A fully functional REST API with authentication, permissions, and class-based views. Deployed on PythonAnywhere. | Python, Django, REST Framework |
+| [📊 Automated Data Analytics System](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Authomation_Data_Analysis) | Data processing and analytics pipeline built during my LearnDepth internship. | Python, Pandas |
+| [📚 PageTurner Books](https://github.com/jesse-aj/Group10-Project/tree/main/bookstore) | Online bookstore with full product listings, cart, and clean UI. Deployed on Vercel. | HTML, CSS, JavaScript |
+| [✅ GUI Task Reminder](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/GUI_Based_Task_Reminder) | Desktop task reminder with email automation and a Tkinter interface. | Python, Tkinter, smtplib |
+| [💰 CLI Expense Tracker](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Expense-Tracker-CLI) | Command-line tool for tracking and categorising personal expenses. | Python |
+| [🗂 Smart File Organizer](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Smart_File_Organizer) | Automatically organises files into folders by type and date. | Python |
+| [🔐 MoMoGuard](https://github.com/jesse-aj/momo-shield-safe) | MoMo fraud detection and reporting concept targeting financial crime in Ghana. MVP built with React. | React, Python |
 
 ---
 
