@@ -39,7 +39,6 @@ To use technology to:
 | [✅ GUI Task Reminder](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/GUI_Based_Task_Reminder) | Desktop task reminder with email automation and a Tkinter interface. | Python, Tkinter, smtplib |
 | [💰 CLI Expense Tracker](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Expense-Tracker-CLI) | Command-line tool for tracking and categorising personal expenses. | Python |
 | [🗂 Smart File Organizer](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Smart_File_Organizer) | Automatically organises files into folders by type and date. | Python |
-| [🔐 MoMoGuard](https://github.com/jesse-aj/momo-shield-safe) | MoMo fraud detection and reporting concept targeting financial crime in Ghana. MVP built with React. | React, Python |
 
 ---
 
