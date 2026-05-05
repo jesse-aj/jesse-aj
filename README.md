@@ -1,35 +1,39 @@
-<h1 align="center">Hello there, I am Jesse Appiah 👋🏾</h1>
-
+<h1 align="center">Jesse Obeng Andoh Appiah</h1>
 <p align="center">
-  <em>Software Engineer & Product Manager(Intern) | Building for Impact in Africa and Beyond</em>
+  <em>Software Engineer · Product Manager · Cloud Learner</em>
 </p>
 
 ---
 
-### 👨🏾‍💻 About Me
+### About Me
 
-Hi! I am **Jesse Appiah**, a third-year **Information Technology** student at the **University of Energy and Natural Resources (UENR)** in Ghana.
+I'm **Jesse Appiah** — a third-year **Information Technology** student (Computer Software Engineering) at **UENR, Ghana**.
 
-I build software that solves real human problems — and I'm growing into the product space, learning to think about **why** we build, not just **how**.
+I build software, ship products, and think about systems. My work sits at the intersection of engineering and product — I care as much about *why* something gets built as *how*.
 
-I'm currently:
-- 🛠 Interning at **LearnDepth Academy** building data processing and analytics systems
-- 🌍 Training with **ALX Africa** across backend and frontend tracks
-- ☁️ Accepted into **AmaliTech's AWS re/Start** Cloud Training programme
-- 📚 Exploring **Product Management** as a complement to my engineering foundation
+**Currently:**
+- ☁️ Cloud Training at **AmaliTech's AWS re/Start** programme
+- 🏥 PM Intern at **Getwell** — working on a healthcare product (OSPOS)
+- 📊 Enrolled in **ALX Africa's Data Analytics** track
+- 🔁 Building automation workflows with **n8n**
 
----
-
-### 🎯 My Mission
-
-To use technology to:
-- Solve real problems for African communities and beyond
-- Build products that put humans — not machines — at the center
-- Bridge the gap between technical execution and product thinking
+**Background:**
+- ✅ Completed ALX Africa — Frontend & Backend tracks
+- ✅ Python Internship at **LearnDepth Academy** — built CLI tools, automation scripts, and REST APIs
+- ✅ Deployed a Django Inventory Management REST API (Railway)
+- ✅ Full-stack group project — **PageTurner Books** (live on Vercel)
 
 ---
 
-### 🚀 Featured Projects
+### What I'm Building Toward
+
+Cloud-native systems. Data-informed products. Tools that actually work for African markets.
+
+---
+
+---
+
+### Featured Projects
 
 | Project | Description | Tech |
 |----------|-------------|------|
