@@ -25,9 +25,9 @@ I build software, ship products, and think about systems. My work sits at the in
 
 ---
 
-### What I'm Building Toward
-
-Cloud-native systems. Data-informed products. Tools that actually work for African markets.
+### My Mission
+I build software that works — practical, human-centered, and built for the context it lives in.
+Whether it's a REST API, a data pipeline, or a product feature, I care about solving the right problem, not just shipping code.
 
 ---
 
@@ -41,8 +41,7 @@ Cloud-native systems. Data-informed products. Tools that actually work for Afric
 | [📊 Automated Data Analytics System](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Authomation_Data_Analysis) | Data processing and analytics pipeline built during my LearnDepth internship. | Python, Pandas |
 | [📚 PageTurner Books](https://github.com/jesse-aj/Group10-Project/tree/main/bookstore) | Online bookstore with full product listings, cart, and clean UI. Deployed on Vercel. | HTML, CSS, JavaScript |
 | [✅ GUI Task Reminder](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/GUI_Based_Task_Reminder) | Desktop task reminder with email automation and a Tkinter interface. | Python, Tkinter, smtplib |
-| [💰 CLI Expense Tracker](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Expense-Tracker-CLI) | Command-line tool for tracking and categorising personal expenses. | Python |
-| [🗂 Smart File Organizer](https://github.com/jesse-aj/Learn-Depth-Internship-Proj-1/tree/main/Smart_File_Organizer) | Automatically organises files into folders by type and date. | Python |
+| [🏢 Mini ERP System](https://github.com/jesse-aj/ERP_SYSTEM) | Project management ERP with task tracking, team roles, and reporting. Built as a full-stack screening project. | MongoDB, Express, React, Node.js |
 
 ---
 
